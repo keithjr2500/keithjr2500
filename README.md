@@ -11,11 +11,6 @@
 
 [<img align="left" alt="Ryan Taylor | LinkedIn" width="200px" src="https://www.linkedin.com/in/ryan--taylor/" />][linkedin]
 
-
-
-[linkedin]: [https://www.linkedin.com/in/ryan--taylor/]
-
-
-
+[linkedin]: https://www.linkedin.com/in/ryan--taylor/
 
 -->
