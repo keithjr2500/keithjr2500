@@ -7,7 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RyanTaylor | LinkedIn" width="22px" src="[https://www.linkedin.com/in/ryan--taylor/ "/>][linkedin]
+[<img align="left" alt="RyanTaylor | LinkedIn" width="24px" src="[https://www.linkedin.com/in/ryan--taylor/ "/>][linkedin]
 
 
 
