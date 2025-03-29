@@ -9,7 +9,7 @@
 
 [<img align="left" alt="RyanTaylor | LinkedIn" width="24px" src="[https://www.linkedin.com/in/ryan--taylor/ "/>][linkedin]
 
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/ryan--taylor/" />][linkedin]
 
 
 
