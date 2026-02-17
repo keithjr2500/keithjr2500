@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/keithjr2500/vulnerability-management-program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/keithjr2500/programmatic-vulnerability-remediations/tree/main)**
 - **[Applying STIGs With PowerShell](https://github.com/keithjr2500/STIGS-PowerShell)**
-- **[Financial AI Analyst Help]([https://github.com/keithjr2500/Finacance Analyst-Python.git](https://github.com/keithjr2500/Financial-AI-Analyst-Help/new/main))**
+- **[Financial AI Analyst Help](https://github.com/keithjr2500/Financial-AI-Analyst-Help/new/main))**
 
 ## 🚨 Threat Hunting and Security Operations
 
