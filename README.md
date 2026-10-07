@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/keithjr2500/threat-hunting-scenario-tor/tree/main)**
-
+- **[Get Practice](https://github.com/keithjr2500/git-practice)**
 <hr/>
 
 ## 🤳 Connect With Me
